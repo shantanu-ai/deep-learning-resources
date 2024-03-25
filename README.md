@@ -22,9 +22,7 @@ are the links:
 | Probablistic Graphical Models                                         | [Lectures](https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i) | Daphne koller (Stanford)                                                 |
 | Engineering Math: Differential Equations and Dynamical Systems        | [Lectures](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | Steve Brunton (University of Washington)                                 |
 | Engineering Math: Vector Calculus and Partial Differential Equations  | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)            | Steve Brunton (University of Washington)                                 |
-| Complex Analysis                                                      | [Lectures](https://www.youtube.com/watch?v=_mv0q7-WF4E&list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Steve Brunton (University of Washington)   
-
-https://web.stanford.edu/class/cs109/                              |
+| Complex Analysis                                                      | [Lectures](https://www.youtube.com/watch?v=_mv0q7-WF4E&list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Steve Brunton (University of Washington)
 
 ## Deep learning coding in pytorch fundamentals
 
