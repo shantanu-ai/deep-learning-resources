@@ -11,8 +11,8 @@ are the links:
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | Linear Algebra                                                        | [Lectures](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)                 | Gilbert Strang (MIT)                                                     |
 | Probability                                                           | [Lectures](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) | John Tsitsiklis (MIT)                                                    |
-| MIT RES.LL-005 Mathematics of Big Data and Machine Learning           | [Lectures](https://www.youtube.com/watch?v=t4K6lney7Zw&list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) | Jeremy Kepner, Vijay Gadepally (MIT)
-| Probability for Computer Scientists                                   | [Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) | Jerry Cain (Stanford University)                                      |
+| MIT RES.LL-005 Mathematics of Big Data and Machine Learning           | [Lectures](https://www.youtube.com/watch?v=t4K6lney7Zw&list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) | Jeremy Kepner, Vijay Gadepally (MIT)                                     |                                     
+| Probability for Computer Scientists                                   | [Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)            | Jerry Cain (Stanford University)                                         |
 | Probability                                                           | [Lectures](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | Joe Blitzstein (Harvard)                                                 |
 | Optimization related to deep learning                                 | [Lectures](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang (MIT)                                                     |
 | Optimization (General)                                                | [Lectures](https://www.youtube.com/watch?v=9hToSoZXM9s&list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU) | Geoff Gordon (CMU)                                                       |
@@ -22,7 +22,7 @@ are the links:
 | Probablistic Graphical Models                                         | [Lectures](https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i) | Daphne koller (Stanford)                                                 |
 | Engineering Math: Differential Equations and Dynamical Systems        | [Lectures](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | Steve Brunton (University of Washington)                                 |
 | Engineering Math: Vector Calculus and Partial Differential Equations  | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)            | Steve Brunton (University of Washington)                                 |
-| Complex Analysis                                                      | [Lectures](https://www.youtube.com/watch?v=_mv0q7-WF4E&list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Steve Brunton (University of Washington)
+| Complex Analysis                                                      | [Lectures](https://www.youtube.com/watch?v=_mv0q7-WF4E&list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Steve Brunton (University of Washington)                                 |    
 
 ## Deep learning coding in pytorch fundamentals
 
@@ -99,13 +99,13 @@ are the links:
 
 ## LLM courses
 
-| Professor (Institute)                          | Course name (Link)                                                                                                                               | Course id                                                                                 |
-|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Percy Liang (Stanford)                    | [Large Language Models](https://stanford-cs324.github.io/winter2022/)                                                          | CS324
-| Div Garg (Stanford)                       | [Transformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)                              | [CS25](https://web.stanford.edu/class/cs25/)
-| Lei Li (CMU)                              | Large Language Model Systems                              | [11868](https://llmsystem.github.io/llmsystem2024spring/)
-| Chenyan Xiong (CMU)                       | Large Language Models Methods and Applications            | [11667](https://cmu-llms.org/calendar/)
-| Dawn Song [UC Berkeley                    | Understanding Large Language Models: Foundations and Safety| [CS194/294-267](https://rdi.berkeley.edu/understanding_llms/s24)
+| Professor (Institute)                       | Course name (Link)                                                                                                                | Course id                                                         |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Percy Liang (Stanford)                      | [Large Language Models](https://stanford-cs324.github.io/winter2022/)                                                             | CS324                                                             |
+| Div Garg (Stanford)                         | [Transformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)                                          | [CS25](https://web.stanford.edu/class/cs25/)                      |                
+| Lei Li (CMU)                                | Large Language Model Systems                                                                                                      | [11868](https://llmsystem.github.io/llmsystem2024spring/)         |        
+| Chenyan Xiong (CMU)                         | Large Language Models Methods and Applications                                                                                    | [11667](https://cmu-llms.org/calendar/)                           |                         
+| Dawn Song [UC Berkeley                      | Understanding Large Language Models: Foundations and Safety                                                                       | [CS194/294-267](https://rdi.berkeley.edu/understanding_llms/s24)  | 
 
 
 
