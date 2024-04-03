@@ -95,7 +95,7 @@ are the links:
 | Steve Brunton (University of Washington)       | [Physics Informed Machine Learning](https://www.youtube.com/watch?v=JoFW2uSd3Uo&list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)                         |                                                                                           |
 | Andreas Mueller (Columbia University)          | [Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)                                  | [COMS W4995](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)                |
 | Volodymyr Kuleshov (Cornell University)        | [Applied Machine Learning](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)                                  | [Cornell CS 5787](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml)             |             
-| Chip Huyen (Stanford University)               | [Machine Learning Systems Design]()                                  | [CS 329S](https://stanford-cs329s.github.io)             |                                                                                                                       
+| Chip Huyen (Stanford University)               | [Machine Learning Systems Design]()                                                                                                              | [CS 329S](https://stanford-cs329s.github.io)                                              |                                                                                                                       
 
 ## LLM courses
 
