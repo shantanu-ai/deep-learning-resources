@@ -97,15 +97,16 @@ are the links:
 | Volodymyr Kuleshov (Cornell University)        | [Applied Machine Learning](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)                                  | [Cornell CS 5787](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml)             |             
 | Chip Huyen (Stanford University)               | [Machine Learning Systems Design]()                                                                                                              | [CS 329S](https://stanford-cs329s.github.io)                                              |                                                                                                                       
 
-## LLM courses
+## Foundation models courses
 
-| Professor (Institute)                       | Course name (Link)                                                                                                                | Course id                                                         |
-|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| Percy Liang (Stanford)                      | [Large Language Models](https://stanford-cs324.github.io/winter2022/)                                                             | CS324                                                             |
-| Div Garg (Stanford)                         | [Transformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)                                          | [CS25](https://web.stanford.edu/class/cs25/)                      |                
-| Lei Li (CMU)                                | Large Language Model Systems                                                                                                      | [11868](https://llmsystem.github.io/llmsystem2024spring/)         |        
-| Chenyan Xiong (CMU)                         | Large Language Models Methods and Applications                                                                                    | [11667](https://cmu-llms.org/calendar/)                           |                         
-| Dawn Song [UC Berkeley                      | Understanding Large Language Models: Foundations and Safety                                                                       | [CS194/294-267](https://rdi.berkeley.edu/understanding_llms/s24)  | 
+| Professor (Institute)                   | Course name (Link)                                                                       | Course id                                                        |
+|-----------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Percy Liang (Stanford)                  | [Large Language Models](https://stanford-cs324.github.io/winter2022/)                    | CS324                                                            |
+| Div Garg (Stanford)                     | [Transformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | [CS25](https://web.stanford.edu/class/cs25/)                     |                
+| Lei Li (CMU)                            | Large Language Model Systems                                                             | [11868](https://llmsystem.github.io/llmsystem2024spring/)        |        
+| Chenyan Xiong (CMU)                     | Large Language Models Methods and Applications                                           | [11667](https://cmu-llms.org/calendar/)                          |                         
+| Dawn Song [UC Berkeley                  | Understanding Large Language Models: Foundations and Safety                              | [CS194/294-267](https://rdi.berkeley.edu/understanding_llms/s24) | 
+| Wenhu Chen (University of Waterloo)     | CS 886: Recent Advances on Foundation Models                                             | [CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)      |
 
 
 
