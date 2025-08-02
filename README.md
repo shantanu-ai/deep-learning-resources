@@ -1,4 +1,5 @@
 # Awesome resources related to Deep learning / Computer Vision / NLP / Multimodal
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shantanu-ai.deep-learning-resources&right_color=%23FFA500" alt="Visitor badge" />
 
 Before starting, I would recommend watching these two awesome videos by Andrew Ng on general career advice. [[short](https://www.youtube.com/watch?v=uLL6RZhoj3o) | [long](https://www.youtube.com/watch?v=733m6qBH-jI)]
 
