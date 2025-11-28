@@ -1,29 +1,31 @@
 # Awesome resources related to Deep learning / Computer Vision / NLP / Multimodal
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=shantanu-ai.deep-learning-resources&right_color=%23FFA500" alt="Visitor badge" />
 
-Before starting, I would recommend watching these two awesome videos by Andrew Ng on general career advice. [[short](https://www.youtube.com/watch?v=uLL6RZhoj3o) | [long](https://www.youtube.com/watch?v=733m6qBH-jI)]
+Before starting, I would recommend watching these two awesome videos by Andrew Ng on general career
+advice. [[short](https://www.youtube.com/watch?v=uLL6RZhoj3o) | [long](https://www.youtube.com/watch?v=733m6qBH-jI)]
 
 One should start from probability, linear algebra, optimization, then to go deep into deep learning related topics. Here
 are the links:
 
 ## Fundamental Mathematical concepts
 
-| Mathematical topics                                                   | Link                                                                                            | Professor (Institution)                                                  |
-|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Linear Algebra                                                        | [Lectures](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)                 | Gilbert Strang (MIT)                                                     |
-| Probability                                                           | [Lectures](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) | John Tsitsiklis (MIT)                                                    |
-| MIT RES.LL-005 Mathematics of Big Data and Machine Learning           | [Lectures](https://www.youtube.com/watch?v=t4K6lney7Zw&list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) | Jeremy Kepner, Vijay Gadepally (MIT)                                     |                                     
-| Probability for Computer Scientists                                   | [Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)            | Jerry Cain (Stanford University)                                         |
-| Probability                                                           | [Lectures](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | Joe Blitzstein (Harvard)                                                 |
-| Optimization related to deep learning                                 | [Lectures](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang (MIT)                                                     |
-| Optimization (General)                                                | [Lectures](https://www.youtube.com/watch?v=9hToSoZXM9s&list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU) | Geoff Gordon (CMU)                                                       |
-| Convex optimization                                                   | [Lectures](https://www.youtube.com/watch?v=XFKBNJ14UmY&list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC) | Ryan Tibshirani (CMU)                                                    |
-| Causal Inference                                                      | [Lectures](https://www.youtube.com/@BradyNealCausalInference)                                   | Brady Neal (MILA)                                                        |
-| Probabilistic Graphic Models                                          | [Lectures](https://www.youtube.com/watch?v=ideeHZ4luXw&list=PLMaUodmJlZajWSyD5CPoRFxVdq4MNyHYw) | Kayhan Batmaghelich (Now at Boston University, lectures recorded at CMU) |
-| Probablistic Graphical Models                                         | [Lectures](https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i) | Daphne koller (Stanford)                                                 |
-| Engineering Math: Differential Equations and Dynamical Systems        | [Lectures](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | Steve Brunton (University of Washington)                                 |
-| Engineering Math: Vector Calculus and Partial Differential Equations  | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)            | Steve Brunton (University of Washington)                                 |
-| Complex Analysis                                                      | [Lectures](https://www.youtube.com/watch?v=_mv0q7-WF4E&list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Steve Brunton (University of Washington)                                 |    
+| Mathematical topics                                                  | Link                                                                                            | Professor (Institution)                                                  |
+|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Linear Algebra                                                       | [Lectures](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)                 | Gilbert Strang (MIT)                                                     |
+| Probability                                                          | [Lectures](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) | John Tsitsiklis (MIT)                                                    |
+| MIT RES.LL-005 Mathematics of Big Data and Machine Learning          | [Lectures](https://www.youtube.com/watch?v=t4K6lney7Zw&list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) | Jeremy Kepner, Vijay Gadepally (MIT)                                     |                                     
+| Probability for Computer Scientists                                  | [Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)            | Jerry Cain (Stanford University)                                         |
+| Probability                                                          | [Lectures](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | Joe Blitzstein (Harvard)                                                 |
+| Optimization related to deep learning                                | [Lectures](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang (MIT)                                                     |
+| Optimization (General)                                               | [Lectures](https://www.youtube.com/watch?v=9hToSoZXM9s&list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU) | Geoff Gordon (CMU)                                                       |
+| Convex optimization                                                  | [Lectures](https://www.youtube.com/watch?v=XFKBNJ14UmY&list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC) | Ryan Tibshirani (CMU)                                                    |
+| Causal Inference                                                     | [Lectures](https://www.youtube.com/@BradyNealCausalInference)                                   | Brady Neal (MILA)                                                        |
+| Probabilistic Graphic Models                                         | [Lectures](https://www.youtube.com/watch?v=ideeHZ4luXw&list=PLMaUodmJlZajWSyD5CPoRFxVdq4MNyHYw) | Kayhan Batmaghelich (Now at Boston University, lectures recorded at CMU) |
+| Probablistic Graphical Models                                        | [Lectures](https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i) | Daphne koller (Stanford)                                                 |
+| Engineering Math: Differential Equations and Dynamical Systems       | [Lectures](https://www.youtube.com/watch?v=9fQkLQZe3u8&list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | Steve Brunton (University of Washington)                                 |
+| Engineering Math: Vector Calculus and Partial Differential Equations | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)            | Steve Brunton (University of Washington)                                 |
+| Complex Analysis                                                     | [Lectures](https://www.youtube.com/watch?v=_mv0q7-WF4E&list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Steve Brunton (University of Washington)                                 |    
 
 ## Deep learning coding in pytorch fundamentals
 
@@ -109,7 +111,7 @@ are the links:
 | Dawn Song (UC Berkeley)             | Understanding Large Language Models: Foundations and Safety                              | [CS194/294-267](https://rdi.berkeley.edu/understanding_llms/s24) | 
 | Wenhu Chen (University of Waterloo) | CS 886: Recent Advances on Foundation Models                                             | [CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)      |
 
-
-
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/shantanu-ai/deep-learning-resources/pulls).
+
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send
+a [pull request](https://github.com/shantanu-ai/deep-learning-resources/pulls).
